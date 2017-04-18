@@ -1,24 +1,17 @@
-# README
+# TrackingMouseGesture
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Environment
+---
 
-Things you may want to cover:
+- dependency libraries
+  - `rails` == 5.0.2
+  - `ruby` >= 2.4.0
+  - `bundler` >= 1.14.6
 
-* Ruby version
+Start Deveopment
+---
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```bash
+$ bundle install
+$ rails s
+```
